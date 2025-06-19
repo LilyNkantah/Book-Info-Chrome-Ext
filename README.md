@@ -1,2 +1,2 @@
 # Book-Info-Chrome-Ext
-The aim of this application is to provide a Chrome extension that allows a user to easily access up-to-date information about books of their choosing (category/theme-wise) while browsing Google Chrome.
+The aim of this application is to provide a Chrome extension that allows me to easily access up-to-date information about books I am planning to read while browsing Google Chrome or book sites.
