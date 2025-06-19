@@ -1,0 +1,11 @@
+{
+    "name": "Books I Want To Read",
+    "version": "1.0.0",
+    "description": "books on my to-read list",
+    "manifest_version": 3,
+    "author": "Liberty Nkantah",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Books To Read"
+    }
+}
